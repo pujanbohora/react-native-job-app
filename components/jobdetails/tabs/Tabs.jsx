@@ -6,7 +6,7 @@ import styles from './tabs.style'
 const Tabs = () => {
   return (
     <View>
-      <Text>Tabs Screen</Text>
+      <Text>Tabs Screen test</Text>
     </View>
   )
 }
