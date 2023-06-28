@@ -6,7 +6,7 @@ import styles from './company.style'
 const Company = () => {
   return (
     <View>
-      <Text>Company Screen</Text>
+      <Text>Company Screen for help</Text>
     </View>
   )
 }
