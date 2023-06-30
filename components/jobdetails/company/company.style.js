@@ -8,14 +8,14 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
   },
-  logoBox: {
-    width: 85,
-    height: 85,
-    justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: "#FFF",
-    borderRadius: SIZES.large,
-  },
+  // logoBox: {
+  //   width: 85,
+  //   height: 85,
+  //   justifyContent: "center",
+  //   alignItems: "center",
+  //   backgroundColor: "#FFF",
+  //   borderRadius: SIZES.large,
+  // },
   logoImage: {
     width: "80%",
     height: "80%",
