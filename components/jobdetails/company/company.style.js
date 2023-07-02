@@ -3,19 +3,19 @@ import { StyleSheet } from "react-native";
 import { COLORS, FONT, SIZES } from "../../../constants";
 
 const styles = StyleSheet.create({
-  container: {
-    marginVertical: SIZES.medium,
-    justifyContent: "center",
-    alignItems: "center",
-  },
-  // logoBox: {
-  //   width: 85,
-  //   height: 85,
+  // container: {
+  //   marginVertical: SIZES.medium,
   //   justifyContent: "center",
   //   alignItems: "center",
-  //   backgroundColor: "#FFF",
-  //   borderRadius: SIZES.large,
   // },
+  logoBox: {
+    width: 85,
+    height: 85,
+    justifyContent: "center",
+    alignItems: "center",
+    backgroundColor: "#FFF",
+    borderRadius: SIZES.large,
+  },
   logoImage: {
     width: "80%",
     height: "80%",
