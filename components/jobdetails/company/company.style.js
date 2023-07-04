@@ -16,10 +16,10 @@ const styles = StyleSheet.create({
     backgroundColor: "#FFF",
     borderRadius: SIZES.large,
   },
-  logoImage: {
-    width: "80%",
-    height: "80%",
-  },
+  // logoImage: {
+  //   width: "80%",
+  //   height: "80%",
+  // },
   jobTitleBox: {
     marginTop: SIZES.small,
   },
